@@ -1,3 +1,5 @@
+https://leehyunbin0131.github.io/GPA_Calculator/
+
 # 학생 성적 계산기
 
 HTML과 순수 JavaScript로 구현된 학생 자율 입력 기반 성적 계산기입니다.
